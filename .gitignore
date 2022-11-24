@@ -1,0 +1,11 @@
+/venv
+cache/
+
+/sketch/data/external/imagenet/
+
+.ipynb_checkpoints
+__pycache__/
+
+wandb/
+models/
+logs/
