@@ -1,0 +1,1 @@
+This repository contains examples on how subclass the Huggingface Trainer class to apply contrastive learning.
